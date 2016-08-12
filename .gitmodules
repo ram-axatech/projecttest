@@ -1,0 +1,3 @@
+[submodule "frameworktest"]
+	path = frameworktest
+	url = https://github.com/ram-axatech/frameworktest.git
