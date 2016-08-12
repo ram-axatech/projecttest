@@ -1,0 +1,15 @@
+What is MEAN, and why it's GOOD?
+So, what is a MEAN stack? The idea is quite simple actually - you have 4 main parts:
+
+MongoDB as the database
+Express as the web framework
+AngularJS as the frontend framework, and
+Node.js as the server platform
+These are some of the advantages of a MEAN stack:
+
+Single language is used in the whole application
+Support for the MVC pattern
+JSON is used for transfering data
+Node.js's huge module library
+Open source so you can tweak it to your preferences if you're an experienced user
+Ok, enough with the chit-chat, now we'll go and install all the necessary parts.3
